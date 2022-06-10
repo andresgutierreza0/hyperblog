@@ -1,6 +1,6 @@
 body
 {
-    background: #1e1f24;
+    background: white;
     color: #333;
     text-align: center;
     font-family: Arial;
@@ -43,12 +43,18 @@ body
 
 #container h1
 {
-   font-size: 20px;
+    font-size: 20px;
 }
+#post
+{
+    background: white;
+    padding: 1em;
+}
+
 #footer
 {
-	background: #777;
-	color: white;
-	text-align: center;
-	padding: 0.5em;
+    background: white;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
